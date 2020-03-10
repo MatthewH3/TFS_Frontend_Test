@@ -8,6 +8,12 @@ It should contain two lines of code.
 REACT_APP_API_ENDPOINT="http://newsapi.org/v2"
 REACT_APP_API_KEY=<< YOUR_API_KEY >> or you could actually use mine "9cd3ea0829314d59986072a6f71eb66c"
 
+
+AND PLEASE do yarn install before yarn start. 
+
+
+Thank you very much!
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## Available Scripts
