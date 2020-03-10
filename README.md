@@ -1,7 +1,14 @@
-<<<<<<< HEAD
+
 # TFS_Frontend_Test
-=======
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Please create a .env.development file at the root level.
+It should contain two lines of code.
+
+REACT_APP_API_ENDPOINT="http://newsapi.org/v2"
+REACT_APP_API_KEY=<< YOUR_API_KEY >> or you could actually use mine "9cd3ea0829314d59986072a6f71eb66c"
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ## Available Scripts
 
@@ -45,4 +52,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
->>>>>>> First Commit
